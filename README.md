@@ -1,4 +1,6 @@
-# ✨ Vue Three Starter ✨
+# ✨ IBC Sound pillard example ✨
+A creative example for awwards 👨‍💻
+
 A simple webgl threejs creative dev environnement in Vue.JS with GLSLify loader 👨‍💻
 
 <div style="display: flex">
